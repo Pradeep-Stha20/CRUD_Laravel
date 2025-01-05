@@ -1,3 +1,3 @@
 # CRUD in Laravel
 <br>
-## This includes CRUD operation with the use of Bootstrap for fronend.
+<p>This includes CRUD operation with the use of Bootstrap for fronend.</p>
